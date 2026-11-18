@@ -1,0 +1,25 @@
+{
+    'name': 'MR DIY ERP – Integrated Suite',
+    'version': '1.0.0',
+    'summary': 'Accounting, Purchase, Fleet, HR, Attendance, Payroll, POS, Inventory, Quality, Recruitment & Website – all in one addon',
+    'author': 'MR DIY Enterprise Team',
+    'category': 'Operations',
+    'depends': [
+        'account',
+        'purchase',
+        'fleet',
+        'hr',
+        'hr_attendance',
+        'point_of_sale',
+        'stock',
+        'website',
+        'hr_recruitment',
+    ],
+    'data': [
+        'security/ir.model.access.csv',
+        'views/menu.xml',
+    ],
+    'installable': True,
+    'application': True,
+    'auto_install': False,
+}

@@ -1,0 +1,12 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_account_move_mr_diy,access.account.move.mr_diy,account.model_account_move,,1,1,1,1
+access_purchase_order_mr_diy,access.purchase.order.mr_diy,purchase.model_purchase_order,,1,1,1,1
+access_fleet_vehicle_mr_diy,access.fleet.vehicle.mr_diy,fleet.model_fleet_vehicle,,1,1,1,1
+access_hr_employee_mr_diy,access.hr.employee.mr_diy,hr.model_hr_employee,,1,1,1,1
+access_hr_attendance_mr_diy,access.hr.attendance.mr_diy,hr_attendance.model_hr_attendance,,1,1,1,1
+access_pos_order_mr_diy,access.pos.order.mr_diy,point_of_sale.model_pos_order,,1,1,1,1
+access_stock_move_mr_diy,access.stock.move.mr_diy,stock.model_stock_move,,1,1,1,1
+access_hr_applicant_mr_diy,access.hr.applicant.mr_diy,hr_recruitment.model_hr_applicant,,1,1,1,1
+access_website_job_post_mr_diy,access.website.job.post.mr_diy,model_website_job_post,,1,1,1,1
+access_mr_diy_payroll,access.mr_diy.payroll,model_mr_diy_payroll,,1,1,1,1
+access_mr_diy_quality_check,access.mr_diy.quality_check,model_mr_diy_quality_check,,1,1,1,1
